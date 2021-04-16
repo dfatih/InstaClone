@@ -20,10 +20,14 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Zugriff auf Kamera erlauben, damit Fotos gemacht werden können.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Zugriff auf Fotos erlauben, um Fotos abzuspeichern</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
-	<string>Main</string>
+	<string>Start</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
